@@ -1,0 +1,15 @@
+ create vite@latest
+
+✔ Project name: … r3f-portfolio
+✔ Select a framework: › React
+✔ Select a variant: › JavaScript
+
+  cd r3f-portfolio
+  npm install
+  npm i three react-three-fiber @react-three/drei
+
+  npm run dev
+    ➜  Local:   http://127.0.0.1:5173/
+    ➜  Network: use --host to expose
+    ➜  press h to show help
+
